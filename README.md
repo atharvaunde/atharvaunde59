@@ -1,6 +1,5 @@
 <h2> Hi, I'm Atharva  Unde!</h2>
-<img align='right' src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="230">
-
+ 
 [![Twitter: atharavunde59](https://img.shields.io/twitter/follow/atharvaunde59?style=social)](https://twitter.com/atharvaunde59)
 [![Linkedin: atharvaunde59](https://img.shields.io/badge/-atharvaunde59-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharvaunde59/)](https://www.linkedin.com/in/atharvaunde59/)
 [![GitHub atharvaunde59](https://img.shields.io/github/followers/atharvaunde59?label=follow&style=social)](https://github.com/atharvaunde59)
