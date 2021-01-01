@@ -13,7 +13,7 @@ const coffee = {
   code: [Javascript, NodeJS, HTML, CSS, Docker,VueJS],
   architecture: ["microservices"],
   techCommunities: {
-                        Services and Operations Team: "CareerLabs"
+                        Product Associate, Services and Operations Team: "CareerLabs"
                         Full Stack Developer: "Hubple",
                         Web Developer: "hentaiOS"
                       },
